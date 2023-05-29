@@ -1,5 +1,6 @@
 {
-    "charts":{
+    "charts":{},
+    "nginx":{
         "location":"nginx"
-    }
+}   
 }
